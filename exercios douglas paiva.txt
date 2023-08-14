@@ -1,0 +1,109 @@
+algoritimo : conferir nome dos bilhetes de cinema
+
+exemplo: 
+
+leia o numero da sala no bilhete
+   conferir o bilhete do cliente e ver se a sala esta correta ESCREVA informe o horario do filme
+   se ele estiver adiantado entao informa-lo que a sala ainda nao abriu e informa-lo a sala ESCREVA informe o horario que o filme começará
+   se ele estive atrasado entao  informa que o filme ja começou e informar a sala  ESCREVA informe o horario que o filme comecou
+   
+
+   fim algoritimo
+
+exercicio 1 
+
+leia a 
+leia b
+resultado A + B 
+escreva resultado
+
+
+
+exercicios 2   
+
+leia a temperatura 
+leia unidade
+se unidade = C
+entao resultado = (temperatura * 1.8?) + 32
+senao
+entao resultado = (temperatura * - 32) / 1.8
+escreva resultado 
+
+
+exercicio 3
+ 
+leia lista de numeros
+escreva informe os numeros
+escreva adicione os numeros da lista com os outros 
+entao reparta pela quantidade de numeros
+entao resultado = ( a soma dos numeros / pela quantidade de numeros)
+escreva resultado
+fim
+
+exercicio 4 
+
+leia o numero
+leia fatorial é a multiplicacao de um numero pelo seus antecessores maiores ou igual a 1 entao 
+escreva (calcule a fatorial desse numero)
+escreva resultado
+fim
+
+exercicio 5
+
+leia lista
+leia A
+faça confira toda a lista entao encontre A
+fim
+
+6 exercicio 
+
+leia uma tabela de numeros
+escreva (informe o valor de A)
+faça (multiplique A por ele mesmo quantas vezes o expoente mandar)
+fim
+
+7 exercicio
+
+leia a lista numerica
+faça (informe o valor de A)
+faça verifique se A é divisivel apenas por ele e 1
+escreva resultado
+fim
+ 
+8 exercicio
+leia veja uma imagem de A 
+faça informe o valor da base de A
+faça informe o valor da altura de A 
+entao resultado = ( base * altura/ 2?)
+escreva resultado
+fim
+ 
+9 exercicios
+
+leia uma juros
+leia M= valor total
+leia J=juros
+leia C= capital aplicado entao resultado = ( m = c =j)
+escreva resultado 
+fim
+
+10 exercicios
+
+leia os valores e seus respectivos pesos
+faça calcule somatório dos produtos entre cada valor e seu peso correspondente
+faça multiplique cada valor pelo seu peso correspondente 
+faça adicione o resultado das multiplicações em conjuntos diferentes
+para obter somas dos produtos
+faça divida cada somatório por sua somatória total 
+para o somatório do número de elementos na lista
+entao obtendo assim os resultados finais da divisão entre esses valores
+fim
+
+
+ 
+
+
+
+
+
+
